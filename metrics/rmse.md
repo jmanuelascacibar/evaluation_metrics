@@ -227,7 +227,7 @@ rmse = np.sqrt(np.mean((predicted - actual)**2))
 print(f"Root Mean Square Error (RMSE): {rmse:.4f}")
 ````
 
-![]("evaluation_metrics/images/rmse/actual_vs_predicted_scatter.png")
+![]("/evaluation_metrics/images/rmse/actual_vs_predicted_scatter.png")
 
 
 This shows actual vs predicted values. The differences between these points are what RMSE quantifies.
