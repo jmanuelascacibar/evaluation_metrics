@@ -186,7 +186,7 @@ It might result in slightly larger errors for long-distance trips, potentially l
 
 ### 4. Visual Aids
 
-1. Scatter Plot: 
+#### Scatter Plot: 
 
 ````
 import numpy as np
